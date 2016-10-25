@@ -9,12 +9,12 @@
 	"powersource": "hypermatter reactor",
 	"specification": {
 		"scale": "km",	
-		"lenght": 150,
-		"width": 150,
-		"height": 150
+		"lenght": 120,
+		"width": 120,
+		"height": 120
         },
 	"price": {
-    	"amount": 1000000000000,
+    	"amount": 1400000000000,
 		"currency": "galactic credits"
 	}
 }
