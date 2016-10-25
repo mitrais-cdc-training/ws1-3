@@ -3,7 +3,7 @@
 	"name": "Death Star ZZ",
 	"identifier": "DS-1 platform",
 	"designer": "Geonosians",
-	"commander": "Grand Moff",
+	"commander": "Esandis Rio Vandra",
 	"affiliation": "galactic empire",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
