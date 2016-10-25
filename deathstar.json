@@ -9,9 +9,9 @@
 	"powersource": "hypermatter reactor",
 	"specification": {
 		"scale": "km",	
-		"lenght": 120,
-		"width": 120,
-		"height": 120
+		"lenght": 140,
+		"width": 140,
+		"height": 140
         },
 	"price": {
     	"amount": 1000000000000,
