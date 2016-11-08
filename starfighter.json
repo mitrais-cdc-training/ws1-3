@@ -7,4 +7,24 @@
     	"amount": 149999,
 		"currency": "galactic credits"
 	}
+},
+{
+	"id": 2,
+	"name": "Starfighter v.2",
+	"identifier": "T-75 x-wing",
+	"affiliation": "alliance",
+	"price": {
+    	"amount": 179999,
+		"currency": "galactic credits"
+	}
+},
+{
+	"id": 3,
+	"name": "Starfighter v.3",
+	"identifier": "T-75 x-wing",
+	"affiliation": "alliance",
+	"price": {
+    	"amount": 179999,
+		"currency": "galactic credits"
+	}
 }
